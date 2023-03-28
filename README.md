@@ -8,4 +8,7 @@
 
 [Factorial](https://github.com/dudexe/algorithms/blob/d36b87335eb53af185244dfc7313f2c2fbb7642b/factorial.cc)
 
+## Search
+[Binary Search](https://github.com/dudexe/algorithms/blob/456fd67c785e429c08dd44ae172cb5f9657d5d1d/binarysearch.cc)
+
 ## Sorting
