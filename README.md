@@ -6,6 +6,6 @@
 ## Math
 [Fibonacci Number](https://github.com/dudexe/algorithms/blob/a4a7a1def3a91a849deb94b0a218d10a1b221d9d/fibonacci.cc)
 
-[Factorial]()
+[Factorial](https://github.com/dudexe/algorithms/blob/d36b87335eb53af185244dfc7313f2c2fbb7642b/factorial.cc)
 
 ## Sorting
